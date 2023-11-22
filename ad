@@ -1,0 +1,83 @@
+[33mcommit 22284e907be87c2030ddf9ef4ec933532c10ce8d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sebastian-gomezC <jsgomezca@unal.edu.co>
+Date:   Tue Nov 21 20:00:02 2023 -0500
+
+    producto final 0.3
+
+[33mcommit 5a7dc256abe77d55f422e96d79f5308402e22019[m
+Author: Sebastian-gomezC <jsgomezca@unal.edu.co>
+Date:   Tue Nov 21 10:49:36 2023 -0500
+
+    Versión 0.2 instrutivos y escenarios agregados
+
+[33mcommit 679a8034b5c03d27610435a2b7638b0d7d77245a[m
+Author: Sebastian-gomezC <jsgomezca@unal.edu.co>
+Date:   Sun Nov 19 03:33:16 2023 -0500
+
+    buttons update
+
+[33mcommit 17bf70ba61b8bcd1b6acf9e21d22c27d343a7d61[m
+Author: Sebastian-gomezC <jsgomezca@unal.edu.co>
+Date:   Tue Nov 14 13:28:51 2023 -0500
+
+    collider_fix
+
+[33mcommit 03cfda1dac09218353101be2567ff6898788704c[m
+Author: Sebastian-gomezC <jsgomezca@unal.edu.co>
+Date:   Tue Nov 14 12:46:52 2023 -0500
+
+    spark_effect
+
+[33mcommit 78e78d45c14f73a13eea6dc9d47b1006bb09aa4c[m
+Author: Sebastian-gomezC <jsgomezca@unal.edu.co>
+Date:   Thu Oct 26 00:06:07 2023 -0500
+
+    wait time of 30s
+
+[33mcommit c033222a906750fc265d3e8cef37537a3acdb6f2[m
+Author: Sebastian-gomezC <jsgomezca@unal.edu.co>
+Date:   Wed Oct 25 23:50:07 2023 -0500
+
+    test conectors y display
+
+[33mcommit 3d32415fc454cd51585624fa887242adab5a5906[m
+Author: Sebastian-gomezC <jsgomezca@unal.edu.co>
+Date:   Tue Oct 24 17:26:29 2023 -0500
+
+    colider solve
+
+[33mcommit c483fb6fa400cfda6076d3b6da561372140cf9a2[m
+Author: Sebastian-gomezC <jsgomezca@unal.edu.co>
+Date:   Tue Oct 24 01:06:40 2023 -0500
+
+    conector
+
+[33mcommit 22b1446dc247a181699b28b9f2d810d209c1834b[m
+Author: Sebastian-gomezC <jsgomezca@unal.edu.co>
+Date:   Mon Oct 16 22:08:37 2023 -0500
+
+    join_spring
+
+[33mcommit 1760fadccfdbcc5d40ebfdb060cb968a0c83a50c[m
+Author: Sebastian-gomezC <jsgomezca@unal.edu.co>
+Date:   Mon Oct 16 19:53:07 2023 -0500
+
+    multimetre cable blend
+
+[33mcommit 99ab2057bbe3dee880c093a659cbcde407053312[m
+Author: Sebastian-gomezC <jsgomezca@unal.edu.co>
+Date:   Tue Oct 10 19:40:31 2023 -0500
+
+    interactable
+
+[33mcommit 15d9ce45ea69bc3d6fae1ac7219301d7bb88bc83[m
+Author: Sebastian-gomezC <jsgomezca@unal.edu.co>
+Date:   Mon Oct 9 19:29:31 2023 -0500
+
+    docker_experimental
+
+[33mcommit 14f3230b8a112d135591c8a6d21761283ba1ea4a[m
+Author: Sebastian-gomezC <jsgomezca@unal.edu.co>
+Date:   Thu Jun 1 10:06:18 2023 -0500
+
+    example case
